@@ -11,7 +11,7 @@ The ACES programme will include:
 - an excursion to the [Observatory Science Centre](https://www.the-observatory.org) in Herstmonceux, East Sussex. The Observatory Science Centre occupies the home of the Royal Greenwich Observatory from 1957-1990.
 - a set of short presentations and networking session with astronomy graduates working outside academia.
 
-A full programme will be available [here]() shortly.
+A full programme will be available [here](programme.md) shortly.
 
 ### Timing
 
