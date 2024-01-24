@@ -1,5 +1,5 @@
 # Advanced Cosmology and Extragalactic Summer School
-## 2-6 September 2025, **University of Sussex**, Brighton, UK
+<!-- ## 2-6 September 2025, **University of Sussex**, Brighton, UK -->
 
 We are pleased to announce the STFC funded Advanced Cosmology and Extragalactic School (ACES) to be held at the University of Sussex 2-6 September 2024 (accomodation available on 1 September). ACES is targeted at STFC funded PhD students undertaking projects in cosmology and extragalactic astronomy. The aim of ACES is to update participants’ knowledge of current topics in cosmology and extragalactic astronomy and provide training in state-of-the-art tools and techniques. 
 
