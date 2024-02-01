@@ -1,6 +1,26 @@
 
 # Programme
 
+### Confirmed Speakers
+
+- Chris Byrnes (Sussex)
+- Ken Duncan (IfA, Edinburgh)
+- Alan Heavens (Imperial)
+- Robert Massey (RAS)
+- Eva-Maria Mueller (Sussex)
+- Sandro Tacchella (IoA, Cambridge)
+- Aprajita Verma (Oxford)
+- Kris Zarb Adami (Oxford)
+- Konstantin Leyde (ICG, Portsmouth)
+
+### Confirmed Workshops
+
+- Cosmological simulations with [SWIFT](https://swift.strw.leidenuniv.nl)
+- Synthetic observations with [Synthesizer](https://github.com/flaresimulations/synthesizer)
+- Cosmological parameter inference with [Cobaya](https://github.com/CobayaSampler/cobaya)
+
+## Timetable
+
 > [!WARNING]
 > This programme is still in development. Some lectures may move.
 
@@ -8,9 +28,9 @@
 | :--- | :--- | :--- | :--- |
 | **Monday 2 September** ||||
 | 9.30 | Fulton A | Stephen Wilkins (Sussex) | Welcome |
-| 10.00 | Fulton A | Robert Massey (RAS) | The UK landscape |
+| 10.00 | Fulton A | TBC | TBC |
 | 11.00 | Fulton | **Break** ||
-| 11.30 | Fulton A | Sandro Tacchella (Cambridge) | TBC |
+| 11.30 | Fulton A | TBC | TBC |
 | 12.30 | Bramber | **Lunch** ||
 | 13.30 | Fulton TBC | TBC | TBC |
 | 17.00 | **Finish** |||
