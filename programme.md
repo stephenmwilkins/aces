@@ -4,14 +4,17 @@
 ### Confirmed Speakers
 
 - Chris Byrnes (Sussex)
+- Payel Das (Surrey)
 - Ken Duncan (IfA, Edinburgh)
 - Alan Heavens (Imperial)
+- Konstantin Leyde (ICG, Portsmouth)
 - Robert Massey (RAS)
 - Eva-Maria Mueller (Sussex)
-- Sandro Tacchella (IoA, Cambridge)
+- Elizabeth Stanway (Warick)
+- Sandro Tacchella (Cavendish Astrophysics, Cambridge)
 - Aprajita Verma (Oxford)
-- Kris Zarb Adami (Oxford)
-- Konstantin Leyde (ICG, Portsmouth)
+- [Kris Zarb Adami](https://www.um.edu.mt/profile/kristianzarbadami) (Oxford)
+
 
 ### Confirmed Workshops
 
@@ -50,7 +53,7 @@
 | 11.00 | Fulton | **Break** ||
 | 11.30 | Fulton A | TBC | TBC |
 | 12.30 | Bramber | **Lunch** ||
-| 13.30 | Fulton TBC | TBC | TBC |
+| 13.30 | Fulton TBC | TBC | Public Engagement Workshop |
 | 14.00 | Excursion + Dinner |||
 |||||
 | **Thursday 5 September** ||||
